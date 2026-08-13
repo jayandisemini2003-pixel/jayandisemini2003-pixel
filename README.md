@@ -3,16 +3,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,45:1F6FEB,100:58A6FF&height=180&section=header&text=Jayandi%20Semini&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlpha=0.9" width="100%" alt="header" />
 
-<a href="https://github.com/jayandisemini2003-pixel">
+<a href="https://github.com/jayandisemini">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Jayandi+Semini+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;React+%7C+FastAPI+%7C+AWS+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%93%9A" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jayandisemini2003-pixel&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=jayandisemini&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
 <br/><br/>
 
-<!-- Using a reliable remote GIF to prevent broken local image links -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="86%" alt="Kid coding with coffee on a rainy night" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 
 </div>
@@ -34,11 +33,9 @@
   <a href="https://linkedin.com/in/jayandi-semini-b6723a326" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayandi-semini-b6723a326" height="30" width="40" />
   </a>
-  <!-- Instagram -->
   <a href="https://www.instagram.com/semini1101?igsh=cXBxbDljcGZvcmdq" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semini1101" height="30" width="40" />
   </a>
-  <!-- Facebook -->
   <a href="https://www.facebook.com/share/1BFNTxACD1/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayandi.semini" height="30" width="40" />
   </a>
@@ -65,13 +62,19 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats:
 
-![Jayandi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jayandisemini&show_icons=true&theme=tokyonight)
-
-![Jayandi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayandisemini&theme=tokyonight)
-
-![Jayandi's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayandisemini&layout=compact&theme=tokyonight&locale=en)
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=jayandisemini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jayandi's GitHub Stats" height="160" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jayandisemini&layout=compact&theme=tokyonight&hide_border=true" alt="Jayandi's Most Used Languages" height="160" />
+  </p>
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayandisemini&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="Jayandi's GitHub Activity Graph" />
+</div>
 
 <br />
 
