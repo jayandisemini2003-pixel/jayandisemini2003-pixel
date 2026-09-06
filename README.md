@@ -73,7 +73,7 @@
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayandisemini&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="Jayandi's GitHub Activity Graph" />
+
 </div>
 
 <br />
